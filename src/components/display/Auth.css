@@ -1,0 +1,22 @@
+input {
+    border: none;
+    border-radius: 5px;
+    background-color: lightgrey;
+    height: 40px;
+    width: 300px;
+    text-indent: 5px;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    font-size: 18px;
+}
+.Modal {
+ background-color: #f7f9dc;
+}
+
+#primary {
+    background-color: #02c39a !important;
+}
+
+#secondary {
+    background-color: #00a896 !important;
+}

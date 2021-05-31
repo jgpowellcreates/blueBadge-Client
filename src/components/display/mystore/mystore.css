@@ -1,0 +1,12 @@
+.cardDisplay {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+/*
+Would like to set card width to a set width so rows can change dynamically
+while images retain their ratio's integrity
+*/
